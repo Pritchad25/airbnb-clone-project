@@ -50,6 +50,32 @@ To successfully complete the project tasks, learners must:
 
 - This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
 
+## ## Team Roles <a name="team-roles"></a>
+- Backedn Developer: Responsible for implementing API endpoints, database schemas & business logic
+- Database Administrator: Manages database design, indexing & optimizations.
+- DevOps Engineer: Handles deployment, monitoring and scaling of the backend services
+- QA Engineer: Ensures the backend functionalities are thoroughly tested & meet quality standards.
+
+## Technology Stack Overview
+- HTML5 & CSS3: the true building blocks of the web
+- Shell Scripting: Automating tasks and managing systems
+- Python(Intermediate level): the versatile powerful programming language for Backend engineers
+- Databases(Relational and Non-relational: managing data effectively
+- TypeScript
+- Docker Containerization
+- Git for version control
+- Jenkins for ci/cd pipelines
+
+## Database Design Overview
+- Indexing: Implement indexes for fast retrieval of frequently accessed data
+- Caching: Use caching strategies to reduce database load and improve performance
+
+## Feature Breakdown
+
+## API Security Overview
+
+## CI/CD Pipeline Overviewy
+
 ## Repository Structure
 | Project | Description |
 | ------- | ----------- |
